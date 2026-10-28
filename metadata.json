@@ -1,0 +1,6 @@
+{
+  "name": "AgriSense AI - Smart Agriculture Monitoring System",
+  "description": "Enterprise precision farming platform combining real-time IoT soil & microclimate telemetry, automated irrigation controls, and Gemini-powered crop disease diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
